@@ -1,0 +1,1 @@
+Run it with `go run ./starbattle.go`
